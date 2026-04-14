@@ -51,16 +51,16 @@ fastapi-secure-app/
 
 ## ▶️ How to Run Locally
 
-### 1. Install dependencies
+1. Install dependencies
 
 ```bash
 pip install -r requirements.txt
 
-### 2. Run FastAPI app
+2. Run FastAPI app
 
 uvicorn app.main:app --reload
 
-### 3. open browser
+3. open browser
 
 http://localhost:8000/docs
 
