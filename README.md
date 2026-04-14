@@ -56,11 +56,11 @@ fastapi-secure-app/
 ```bash
 pip install -r requirements.txt
 
-2. Run FastAPI app
+**### 2. Run FastAPI app**
 
 uvicorn app.main:app --reload
 
-3. Open in browser
+**### 3. open browser**
 
 http://localhost:8000/docs
 
