@@ -89,6 +89,8 @@ Implemented using GitHub Actions
 Automatically runs tests on push
 Ensures code quality and reliability
 
+All tests pass successfully (10/10) using pytest with CI/CD pipeline validation.
+
 👩‍💻 Author
 
 Sharvani Rao
