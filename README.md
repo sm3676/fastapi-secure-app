@@ -82,7 +82,7 @@ http://localhost:8000/docs
 
 ☁️ Docker Hub
 
-https://hub.docker.com/r/sm3676/fastapi-user-assignment
+https://hub.docker.com/r/sm3676/fastapi-user-assignment 
 
 🔄 CI/CD Pipeline
 Implemented using GitHub Actions
