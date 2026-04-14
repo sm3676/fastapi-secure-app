@@ -82,7 +82,46 @@ http://localhost:8000/docs
 
 ☁️ Docker Hub
 
-https://hub.docker.com/r/sm3676/fastapi-user-assignment 
+https://hub.docker.com/r/sm3676/fastapi-user-assignment
+
+
+# FastAPI Secure App
+
+This project implements a secure FastAPI backend with:
+
+- User authentication (hashed passwords)
+- Calculation model (Add, Sub, Multiply, Divide)
+- Pydantic validation (including division by zero handling)
+- Factory pattern for calculation logic
+- Unit and integration testing using pytest
+- CI/CD pipeline using GitHub Actions
+- Docker containerization
+
+## Run Locally
+
+```bash
+docker pull sm3676/fastapi-secure-app
+docker run -p 8000:8000 sm3676/fastapi-secure-app
+
+
+Click **Save**
+
+---
+
+# ✅ RESULT
+
+Now when opens your link:
+
+They will see:
+✔ Proper project explanation  
+✔ Clean documentation  
+✔ Looks professional 
+
+---
+
+Docker hub link:
+
+https://hub.docker.com/r/sm3676/fastapi-secure-app 
 
 🔄 CI/CD Pipeline
 Implemented using GitHub Actions
