@@ -82,7 +82,7 @@ http://localhost:8000/docs
 
 ☁️ Docker Hub
 
-https://hub.docker.com/r/sm3676/fastapi-user-assignment
+https://hub.docker.com/r/sm3676/fastapi-user-assignment == Module 10
 
 
 # FastAPI Secure App
@@ -121,7 +121,7 @@ They will see:
 
 Docker hub link:
 
-https://hub.docker.com/r/sm3676/fastapi-secure-app 
+https://hub.docker.com/r/sm3676/fastapi-secure-app  == module 11
 
 🔄 CI/CD Pipeline
 Implemented using GitHub Actions
